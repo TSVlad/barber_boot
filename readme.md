@@ -6,7 +6,7 @@ Spring AOP, Spring Security, Hibernate, MySQL, Thymeleaf
 Конфигурация: Java + Annotations
 
 
-Главная страница для пользователей :
+Главная страница для клиентов :
 
 ![img](https://github.com/TSVlad/barber_boot/blob/master/images/1.png)
 
