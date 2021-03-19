@@ -1,5 +1,10 @@
 Пэт-проект. Веб приложение для работы парикмахерской.
 
+Использованные технологии: Java, Spring Boot, Spring Core, Spring MVC, 
+Spring AOP, Spring Security, Hibernate, MySQL, Thymeleaf
+
+Конфигурация: Java + Annotations
+
 ![img](https://github.com/TSVlad/barber_boot/blob/master/images/1.png)
 
 Главная страница для пользователей :
